@@ -1,10 +1,7 @@
 # Video Calling App
 
 ## About
-Helps to Decide what food can be ordered from the exis􀆟ng food
-Database.User can add/update/delete the food domain database
-which is made in MySQL.If user doesnt like a particular food he can delete it from the database or can update your favourite food also.
-So,Happy Eating.
+Free Video calling app where upto 4 people can join with the link .This is made using Agora.io Library and Access token saving and generation is done with the help of Firebase. It also contain Banner ads from Google Admob. 
 
 
 ## Structure
