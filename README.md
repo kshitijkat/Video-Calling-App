@@ -1,6 +1,4 @@
 # Video Calling App
-![Applauncher](https://user-images.githubusercontent.com/54508659/120330301-4f275880-c30a-11eb-8781-63c35ccf95f5.jpeg)
-
 
 ## About
 Helps to Decide what food can be ordered from the exis􀆟ng food
@@ -22,4 +20,4 @@ So,Happy Eating.
 * `app/src/main/res` - resources directory
 
 ## Screenshots
-![App Mockups](https://user-images.githubusercontent.com/54508659/101245986-71169880-3736-11eb-869f-01672740004b.png)
+![App Mockups](https://user-images.githubusercontent.com/54508659/120330301-4f275880-c30a-11eb-8781-63c35ccf95f5.jpeg)
