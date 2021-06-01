@@ -1,5 +1,5 @@
 # Video Calling App
-![Applauncher](https://user-images.githubusercontent.com/54508659/101245766-2ea08c00-3735-11eb-95d6-a9f74a26bf38.png)
+![Applauncher](https://user-images.githubusercontent.com/54508659/120330301-4f275880-c30a-11eb-8781-63c35ccf95f5.jpeg)
 
 
 ## About
